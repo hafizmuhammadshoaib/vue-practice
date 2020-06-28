@@ -76,8 +76,12 @@ export default {
   props: {
     msg: String
   },
-  created: function() {},
-  beforeCreate: function() {},
+  created: function() {
+   
+  },
+  beforeCreate: function() {
+    
+  },
   beforeMount: function() {}
 };
 </script>
