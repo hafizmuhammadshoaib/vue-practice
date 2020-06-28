@@ -2,7 +2,8 @@ import Vue from 'vue'
 import App from './App.vue'
 import VueRouter from 'vue-router'
 import Vuex from 'vuex'
-
+// import '@/assets/css/tailwind.css'
+import '@/assets/scss/tailwind.scss'
 import { router } from './routes';
 import store from './store';
 
